@@ -25,5 +25,4 @@ THEN the text for that event is saved in local storage
 WHEN I refresh the page
 THEN the saved events persist
 
-
-https://github.com/ernestbeecherl/weatherDashboard.git
+https://ernestbeecherl.github.io/weatherDashboard
