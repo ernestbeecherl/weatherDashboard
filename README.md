@@ -26,4 +26,4 @@ WHEN I refresh the page
 THEN the saved events persist
 
 
-website: file:///Users/ernestbeecherl/Desktop/weatherdashboard/index.html
+https://github.com/ernestbeecherl/weatherDashboard.git
